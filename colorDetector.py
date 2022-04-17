@@ -1,9 +1,5 @@
-# The Spark Foundation 
-# GRIP2021
+# Color detector
 # Author :Swayamsiddha Das
-# Task #2
-# Color Identification in Images
-
 
 #importing required librarie(S)
 import pyautogui as pg
